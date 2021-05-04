@@ -16,7 +16,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 - Luiz Felipe Gonçalves Braga - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
 - Neylkson Diniz Pereira - [LinkedIn](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/Neylkson/Neylkson)
 - Renan Felipe Basiotte da Silva - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
-- Victor Araujo Paula Cavichioli - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/) [GitHub](https://github.com/VictorCavichioli)
+- Victor Araujo Paula Cavichioli - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/), [GitHub](https://github.com/VictorCavichioli)
 - Zaion Felippe Gomes Arruda - [GitHub](https://github.com/ZaionKun)
 
 
