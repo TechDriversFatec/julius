@@ -98,7 +98,7 @@ git init
 ```
 2. Clone o repositório
 ```
-git clone https://github.com/dallyribeiro/Assistente-Virtual-Julius
+git clone https://github.com/TheLooksDatabase/Julius.git
 ```
 
 
