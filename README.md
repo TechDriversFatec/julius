@@ -7,7 +7,7 @@ por comando de voz capaz de trazer informações em tempo real entregando o máx
 O nosso aplicativo traz o que há de mais inovador no mercado financeiro nacional.
 
 <p align="center">
-  <img src="https://github.com/dallyribeiro/Assistente-Virtual-Julius/blob/main/logo-julius.jpg" />
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/logo-julius.jpg" />
 </p>  
   
 ### Time
