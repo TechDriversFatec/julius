@@ -13,7 +13,9 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 ### DEV TEAMS
 
 - Neylkson Diniz Pereira (Scrum Master)
-[](LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/NeyDiniz)
+ 
+ [](LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/NeyDiniz)
+ 
 - José Maria Reis dos Santos - [GitHub](https://github.com/Jose0588) 
 - Kauã Walbon Santos Borgarelli Tavares - [GitHub](https://github.com/Borgarelli)
 - Luiz Felipe Gonçalves Braga - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
