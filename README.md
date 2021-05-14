@@ -64,7 +64,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
    
 ### Tecnologias
 1) Linguagens de programação:
-   - Python 3; Javascript; HTML5; SQL.
+   - Python 3; Javascript; HTML5; SQL; Kivy (API do Python)
 2) Bibliotecas:
    - Python (Bibliotecas Back End para conexão com API´s prontas: beautifulsoup4, selenium, requests, SpeechRecognition, PyAudio, pyttsx3, vosk, gTTs, Playsound)
    - Javascript (React.JS)
