@@ -59,7 +59,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 ### Gráfico Burndown- Segunda Sprint
 
 <p>
-  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/img_burndown1.PNG" />
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3) Images/img_burndown1.PNG" />
 </p>  
    
    
