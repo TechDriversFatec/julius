@@ -41,7 +41,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 
 ### Backlog do Projeto
 <p align="center">
-  <img src=
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/Backlog/Card%20backlog%20product.png"
 
 - Interfaces (Splash Screen, Menu Inicial, Tela do Chat)
 - Estudo
