@@ -68,18 +68,11 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 - Educação financeira
 - Atualizações do mercado financeiro por notificaões em push
 
-
-### Gráfico Burndown- Segunda Sprint
-
-<p>
-  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3) Images/img_burndown1.PNG" />
-</p>  
-   
-   
+      
 ### Tecnologias
 
-<p align="center">
-  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3) Images/MVP/logo-julius.jpg" />
+<p align="left">
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/Tecnologia%20usadas.png" />
 </p>
 
 1) Linguagens de programação:
