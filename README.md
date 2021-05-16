@@ -41,7 +41,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 
 ### [Backlog do Produto](https://github.com/TheLooksDatabase/Julius/projects/1) 
 <p align="center">
-  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/Backlog/Card%20backlog%20product.png"
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/Backlog/backlog%201.png"
 
 - Interfaces (Splash Screen, Menu Inicial, Tela do Chat)
 - Estudo
@@ -72,7 +72,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 ### Tecnologias
 
 <p align="left">
-  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/Tecnologia%20usadas.png" />
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/WhatsApp%20Image%202021-05-16%20at%2015.47.03.jpeg" />
 </p>
 
 1) Linguagens de programação:
