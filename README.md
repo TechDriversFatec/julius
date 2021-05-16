@@ -95,7 +95,7 @@ Acesse os links para visualizar o layout do projeto no Figma:
 
 
 ### Cronograma
-- [Sprint 1](Sprint 1) - 08/03/2021 a 28/03/2021
+- [Sprint 1](https://github.com/TheLooksDatabase/Julius/blob/Sprint-1/README.md) - 08/03/2021 a 28/03/2021
 - [Sprint 2](Sprint 2) - 29/03/2021 a 18/04/2021
 - [Sprint 3](Sprint 3) - 26/04/2021 a 16/05/2021
 - [Sprint 4](Sprint 4) - 17/05/2021 a 05/06/2021
