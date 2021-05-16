@@ -11,7 +11,7 @@
 <h1 align="center">Assistente virtual mobile criado para facilitar a sua vida financeira
 
 
-### DEV TEAMS
+### DEV TEAM
 
 - Neylkson Diniz Pereira (Scrum Master) [LinkedIn](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/NeyDiniz) 
 - José Maria Reis dos Santos (DEV) - [GitHub](https://github.com/Jose0588) 
@@ -22,11 +22,11 @@
 - Zaion Felippe Gomes Arruda (DEV) - [GitHub](https://github.com/ZaionKun)
 
 
-### Vídeo de Introdução ao Projeto
-[Youtube](https://www.youtube.com/watch?v=vTtysSErHII)
+### Quem é o Julius?
 
-### O que é o Julius?
-
+Projeto Julius consiste em um aplicativo de assistente virtual mobile que auxiliará o usuário na tomada de decisões relacionadas a investimentos financeiros. Entre as funcionalidades estão código de ações, cotação do dia, conversor de moedas entre outros. O objetivo é desenvolver uma ferramenta
+por comando de voz capaz de trazer informações em tempo real entregando o máximo de interatividade ao cliente.
+O nosso aplicativo traz o que há de mais inovador no mercado financeiro nacional.
 
 
 ### Pré-Requisitos do Cliente
@@ -60,6 +60,12 @@
   - Acompanhamento de metas (por meio de uma API)
 
 
+### Benefícios do Produto
+- Auxiliar as pessoas como investir no mercado finaceiro
+- Educação financeira
+- Atualizações do mercado financeiro por notificaões em push
+
+
 ### Gráfico Burndown- Segunda Sprint
 
 <p>
@@ -81,6 +87,10 @@
 ### Layout
 Acesse os links para visualizar o layout do projeto no Figma:
 - [App](https://www.figma.com/proto/q7JuCB5NJFwRAlTSNgqDxO/Julius?node-id=89%3A442&viewport=317%2C-67%2C0.14545896649360657&scaling=scale-down);
+
+
+### Vídeo de Introdução ao Projeto
+[Youtube](https://www.youtube.com/watch?v=vTtysSErHII)
 
 
 ### Cronograma
