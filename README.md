@@ -39,7 +39,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 - Não pode utilizar de plataforma de implementação de terceiros, seja gratuita ou não;
 
 
-### Backlog do Projeto [Backlog 1](https://github.com/TheLooksDatabase/Julius/projects/1#column-14288547)
+### [Backlog do Produto](https://github.com/TheLooksDatabase/Julius/projects/1) 
 <p align="center">
   <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/Backlog/Card%20backlog%20product.png"
 
