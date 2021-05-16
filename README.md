@@ -77,6 +77,11 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
    
    
 ### Tecnologias
+
+<p align="center">
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3) Images/MVP/logo-julius.jpg" />
+</p>
+
 1) Linguagens de programação:
    - Python 3; Javascript; HTML5; SQL; Kivy (API do Python)
 2) Bibliotecas:
