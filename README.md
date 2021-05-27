@@ -15,13 +15,15 @@
 
 - Neylkson Diniz Pereira (Scrum Master) [LinkedIn](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/NeyDiniz) 
 - José Maria Reis dos Santos (DEV) - [GitHub](https://github.com/Jose0588) 
-- Kauã Walbon Santos Borgarelli Tavares (DEV) - [GitHub](https://github.com/Borgarelli)
+- Kauã Walbon Santos Borgarelli Tavares (DEV) - [GitHub](https://github.com/Borgarelli), [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-walbon-santos-borgarelli-tavares-5bb67220a/)
 - Luiz Felipe Gonçalves Braga (DEV) - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
 - Renan Felipe Basiotte da Silva (DEV) - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
 - Victor Araujo Paula Cavichioli (DEV) - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/), [GitHub](https://github.com/VictorCavichioli)
 - Zaion Felippe Gomes Arruda (DEV) - [GitHub](https://github.com/ZaionKun)
-
-
+- Beatriz Medeiros de Oliveira Santos (DEV) - [LinkedIn](https://www.linkedin.com/in/beatriz-medeiros-a98396202/)
+- Joice Elen Pereira Teixeira (DEV) - 
+- Guilherme Akinyele de Almeida (DEV) - [GitHub](https://github.com/gui-akinyele), [LinkedIn](https://www.linkedin.com/in/guilherme-akinyele/)
+  
 ### Quem é o Julius?
 
 Projeto Julius consiste em um aplicativo de assistente virtual mobile que auxiliará o usuário na tomada de decisões relacionadas a investimentos financeiros. Entre as funcionalidades estão código de ações, cotação do dia, conversor de moedas entre outros. O objetivo é desenvolver uma ferramenta
@@ -57,7 +59,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 - Retorno do código das ações
 - Integração Back-end e Front-end
 - Funcionalidades bônus: 
-  - Notificação
+- Notificação
   - Educação financeira
   - Clube do investidor
   - Acompanhamento de metas (por meio de uma API)
