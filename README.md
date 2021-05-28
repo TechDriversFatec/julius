@@ -21,7 +21,7 @@
 - Victor Araujo Paula Cavichioli (DEV) - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/), [GitHub](https://github.com/VictorCavichioli)
 - Zaion Felippe Gomes Arruda (DEV) - [GitHub](https://github.com/ZaionKun)
 - Beatriz Medeiros de Oliveira Santos (DEV) - [LinkedIn](https://www.linkedin.com/in/beatriz-medeiros-a98396202/), [GitHub](https://github.com/beamedeiros)
-- Joice Elen Pereira Teixeira (DEV) - 
+- Joice Elen Pereira Teixeira (DEV) - [LinkedIn](https://www.linkedin.com/in/joice-elen-2a6309207/), [GitHub](https://github.com/jojoka1)
 - Guilherme Akinyele de Almeida (DEV) - [LinkedIn](https://www.linkedin.com/in/guilherme-akinyele/), [GitHub](https://github.com/gui-akinyele) 
   
 ### Quem é o Julius?
