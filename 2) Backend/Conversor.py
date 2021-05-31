@@ -40,3 +40,6 @@ def Conversor_Moedas():
 
     print(f'{valor} {actually} são {convert:.2f} {final}. ')
     sai_som(f'{valor} {actually} são {convert:.2f} {final}. ')
+
+if __name__ == '__main__':
+    Conversor_Moedas()
