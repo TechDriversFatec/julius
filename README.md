@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3) Images/MVP/logo-julius.jpg" />
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/julius.png" />
 </p>  
 
 <h1 align="center">Assistente virtual mobile criado para facilitar a sua vida financeira
