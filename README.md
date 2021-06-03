@@ -8,22 +8,24 @@
   <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/julius.png" />
 </p>  
 
-<h1 align="center">Assistente virtual criado para facilitar a sua vida financeira
+<h1 align="center">Assistente virtual criado para facilitar a sua vida financeira.
+  <p align="center">'Se não comprar o desconto é maior!'</p>  
 
 
 ### DEV TEAM
 
-- Neylkson Diniz Pereira (Scrum Master) [LinkedIn](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/NeyDiniz) 
+- Neylkson Diniz Pereira (Scrum Master) [LinkedIn](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/NeyDiniz)
+- Beatriz Medeiros de Oliveira Santos (DEV) - [LinkedIn](https://www.linkedin.com/in/beatriz-medeiros-a98396202/), [GitHub](https://github.com/beamedeiros)
+- Guilherme Akinyele de Almeida (DEV) - [LinkedIn](https://www.linkedin.com/in/guilherme-akinyele/), [GitHub](https://github.com/gui-akinyele)
+- Joice Elen Pereira Teixeira (DEV) - [LinkedIn](https://www.linkedin.com/in/joice-elen-2a6309207/), [GitHub](https://github.com/jojoka1)
 - José Maria Reis dos Santos (DEV) - [GitHub](https://github.com/Jose0588) 
 - Kauã Walbon Santos Borgarelli Tavares (DEV) - [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-walbon-santos-borgarelli-tavares-5bb67220a/), [GitHub](https://github.com/Borgarelli)
 - Luiz Felipe Gonçalves Braga (DEV) - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
 - Renan Felipe Basiotte da Silva (DEV) - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
 - Victor Araujo Paula Cavichioli (DEV) - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/), [GitHub](https://github.com/VictorCavichioli)
 - Zaion Felippe Gomes Arruda (DEV) - [GitHub](https://github.com/ZaionKun)
-- Beatriz Medeiros de Oliveira Santos (DEV) - [LinkedIn](https://www.linkedin.com/in/beatriz-medeiros-a98396202/), [GitHub](https://github.com/beamedeiros)
-- Joice Elen Pereira Teixeira (DEV) - [LinkedIn](https://www.linkedin.com/in/joice-elen-2a6309207/), [GitHub](https://github.com/jojoka1)
-- Guilherme Akinyele de Almeida (DEV) - [LinkedIn](https://www.linkedin.com/in/guilherme-akinyele/), [GitHub](https://github.com/gui-akinyele) 
-  
+
+ 
 ### Quem é o Julius?
 
 Projeto Julius consiste em um assistente virtual que auxilia o usuário na tomada de decisões relacionadas a investimentos financeiros. Entre as funcionalidades estão código de ações, cotação do dia, conversor de moedas entre outros. O diferencial de nossa aplicação é trazer informações em tempo real entregando o máximo de interatividade ao cliente.
@@ -42,48 +44,46 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 
 ### [Backlog do Produto](https://github.com/TheLooksDatabase/Julius/projects/1) 
 <p align="center">
-  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/Backlog/backlog%201.png"
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/Backlog/backlog%201.png">
 
-- Interfaces (Splash Screen, Menu Inicial, Tela do Chat)
-- Estudo
-- Reconhecimento de fala
-- Retorno da voz
+
+### Funções do assistente
+
 - Cotação do dia
 - Simulador de Juros Compostos
-- Notícias do dia, com retorno por voz
+- Notícias do dia
 - Metas financeiras
-- Traçar perfil do usuário
+- Perfil do usuário
 - Conversor de moedas
 - Comparativo entre financeiras
-- Retorno do código das ações
-- Integração Back-end e Front-end
-- Funcionalidades bônus: 
-- Notificação
+- Código das ações
+
+### Funcionalidades bônus
+
+  - Notificação em push
   - Educação financeira
   - Clube do investidor
   - Acompanhamento de metas (por meio de uma API)
 
 
 ### Benefícios do Produto
-- Auxiliar as pessoas como investir no mercado finaceiro
+- Auxiliar as pessoas como investir no mercado financeiro
 - Educação financeira
 - Atualizações do mercado financeiro por notificaões em push
 
       
-### Tecnologias
+## Tecnologias
 
 <p align="left">
   <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/WhatsApp%20Image%202021-05-16%20at%2015.47.03.jpeg" />
 </p>
 
 1) Linguagens de programação:
-   - Python 3; Javascript; HTML5; SQL; Kivy (API do Python)
+   - Python 3;
 2) Bibliotecas:
    - Python (Bibliotecas Back End para conexão com API´s prontas: beautifulsoup4, selenium, requests, SpeechRecognition, PyAudio, pyttsx3, vosk, gTTs, Playsound)
-   - Javascript (React.JS)
-   - SQL (sqlite3)
 2) Softwares:
-   - VS Code; Pycharm; Node.JS; Expo; MySQL Workbench 8.0 CE; xamp--control
+   - VS Code; Pycharm; MySQL Workbench 8.0 CE; xamp--control; Excel; Whatsapp; Google Meet; Teams; Trello; Figma; Discord
 
 
 ### Layout
