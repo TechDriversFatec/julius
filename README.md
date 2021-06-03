@@ -42,6 +42,62 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 - Não pode utilizar de plataforma de implementação de terceiros, seja gratuita ou não;
 
 
+### User story
+  
+  <table>
+<thead>
+<tr>
+<th align="center">Quem</th>
+<th align="center">O que?</th>
+<th align="left">Para</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Cotação do dia</td>
+<td align="left">Saiba em tempo real qual é o preço que iria pagar por moedas como dólar, euro e Bitcoin!</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Simulador de Juros Compostos</td>
+<td align="left">Saiba qual será o retorno da sua aplicação de juros compostos no final do período desejado.</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Notícias do dia</td>
+<td align="left">Através de um comando de voz você fica sabendo das últimas informaçõs do mercado financeiro.</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Metas financeiras</td>
+<td align="left">Quanto dinheiro você quer alcançar e em quanto tempo? Forneça alguns valores de seu querer e nós calculamos.</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Perfil do usuário</td>
+<td align="left">Com algumas perguntas simples o assistente consegue identificar qual o seu melhor perfil.</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Conversor de moedas</td>
+<td align="left">Saiba quanto irá pagar por moedas estrangeiras independente de qual esteja usando</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Comparativo entre financeiras</td>
+<td align="left">Essa função traz informações entre as principais empresas, com isso você pode tomar decisões mais precisas.</td>
+</tr>
+<td align="center">Cliente</td>
+<td align="center">Código das ações</td>
+<td align="left">Traz o código das empresas dentro da bolsa de valores</td>
+</tr>
+</tbody>
+</table>
+  
+  
+  
+  
 ### [Backlog do Produto](https://github.com/TheLooksDatabase/Julius/projects/1) 
 <p align="center">
   <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/Sprint%201%20Nessa%20sprint%20apresentaremos%20os%20c%C3%B3digos%20das%20fun%C3%A7%C3%B5es%20cota%C3%A7%C3%A3o%20do%20dia%2C%20calculadora%20de%20juros%20compostos%2C%20metas%20(sem%20API%20de%20cadastro)%2C%20conversor%20de%20moedas%20e%20a%20implementa%C3%A7%C3%A3o%20do%20reconhecimento%20de%20voz%20e%20retorno%20%20(1)/1.png">
