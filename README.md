@@ -131,7 +131,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 ## Tecnologias
 
 <p align="left">
-  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/fiiinaaaalll.2.png" />
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/finaldeverdade.png" />
 </p>
 
 1) Linguagens de programação:
