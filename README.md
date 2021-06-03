@@ -8,7 +8,7 @@
   <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/julius.png" />
 </p>  
 
-<h1 align="center">Assistente virtual mobile criado para facilitar a sua vida financeira
+<h1 align="center">Assistente virtual criado para facilitar a sua vida financeira
 
 
 ### DEV TEAM
