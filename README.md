@@ -150,7 +150,7 @@ Acesse os links para visualizar o layout do projeto no Figma:
 
 
 ### Vídeo de Introdução ao Projeto
-[Youtube](https://www.youtube.com/watch?v=vTtysSErHII)
+[Youtube](https://www.youtube.com/watch?v=oyqu1XqaPPE)
 
 
 ### Cronograma
