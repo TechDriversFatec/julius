@@ -142,11 +142,31 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 </p>
 
 1) Linguagens de programação:
-   - Python;
+
+   - Python - Para criação do assistente virtual, com os requisitos solicitados pelo cliente;
+   
 2) Bibliotecas:
-   - Python (Bibliotecas Back End para conexão com API´s prontas: beautifulsoup4, selenium, requests, SpeechRecognition, PyAudio, pyttsx3, vosk, gTTs, Playsound)
+
+   - Beautifulsoup4, selenium e requests: Foram usadas para requisição de informações de páginas HTML para possuir a informação correta e atualizada;
+
+   - SpeechRecognition: Foi usada para reconhecimento e voz usando microfone;
+
+   - Pyttsx3: Foi usada para síntese de texto-voz;
+
+   - Google-api-python-client: API utilizada para usufruir dos recursos de reconhecimento de voz do Google;
+
+   - Sqlite3: Usada para criação de banco de dados;
+
+   - Pycoingecko: Utilizada para conversão de moedas utilizando código do Banco Central.
+   
 2) Softwares:
-   - VS Code; Pycharm; MySQL Workbench 8.0 CE; xamp--control; Excel; Whatsapp; Google Meet; Teams; Trello; Figma; Discord
+
+   - Coredrow/adobephotoshop - Para criação do logo do assistente virtual, edições das imagens da equipe, entre outros;
+   - Google meet/discord/Whast app - Para comunicação, reuniões, comunicado de último hora, entregas de resultados;
+   - Excel - utilizamos a ferramenta do pacote office Excel, para conseguirmos criar o gráfico burndown;
+   - Trello - Para a organização de nossas atividades, metas , entregas de resultados, e objetivos a serem alcançados;
+   - Gmail - Para troca de documentos externos do projeto;
+   - Google Meet/Discord/Whastapp - Para comunicação, reuniões, comunicado de último hora, entregas de resultados.
 
 
 ### Layout
