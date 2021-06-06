@@ -130,10 +130,9 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 
 
 <h1 align="left">Benefícios do Produto</h1>
-
 - Auxiliar as pessoas como investir no mercado financeiro
 - Educação financeira
-- Atualizações do mercado financeiro por notificações em push
+- Atualizações do mercado financeiro por notificaões em push
 
       
 <h1 align="left">Tecnologias</h1>
@@ -142,11 +141,11 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
   <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/finaldeverdade.png" />
 </p>
 
-1) Linguagens de programação:
+### 1) Linguagens de programação:
 
    - Python - Para criação do assistente virtual, com os requisitos solicitados pelo cliente;
    
-2) Bibliotecas:
+### 2) Bibliotecas:
 
    - Beautifulsoup4, selenium e requests: Foram usadas para requisição de informações de páginas HTML para possuir a informação correta e atualizada;
 
@@ -160,14 +159,15 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 
    - Pycoingecko: Utilizada para conversão de moedas utilizando código do Banco Central.
    
-2) Softwares:
+### 3) Softwares:
 
    - Coredrow/adobephotoshop - Para criação do logo do assistente virtual, edições das imagens da equipe, entre outros;
    - Google meet/discord/Whast app - Para comunicação, reuniões, comunicado de último hora, entregas de resultados;
    - Excel - utilizamos a ferramenta do pacote office Excel, para conseguirmos criar o gráfico burndown;
    - Trello - Para a organização de nossas atividades, metas , entregas de resultados, e objetivos a serem alcançados;
    - Gmail - Para troca de documentos externos do projeto;
-   - Google Meet/Discord/Whastapp - Para comunicação, reuniões, comunicado de último hora, entregas de resultados.
+   - Google Meet/Discord/Whastapp - Para comunicação, reuniões, comunicado de último hora, entregas de resultados;
+   - VSCode / PyCharm - IDE utilizada para o desenvolvimento do assistente.
 
 
 <h1 align="left">Layout</h1>
