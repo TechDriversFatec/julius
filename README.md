@@ -66,7 +66,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 <tr>
 <td align="center">Cliente</td>
 <td align="center">Notícias do dia</td>
-<td align="left">Através de um comando de voz você fica sabendo das últimas informaçõs do mercado financeiro.</td>
+<td align="left">Através de um comando de voz você fica sabendo das últimas informações do mercado financeiro.</td>
 </tr>
 <tr>
 <td align="center">Cliente</td>
