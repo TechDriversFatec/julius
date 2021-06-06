@@ -171,7 +171,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 
 ### Layout
 Acesse os links para visualizar o layout do projeto no Figma:
-- [App](https://www.figma.com/proto/q7JuCB5NJFwRAlTSNgqDxO/Julius?node-id=89%3A442&viewport=317%2C-67%2C0.14545896649360657&scaling=scale-down);
+[App](https://www.figma.com/proto/q7JuCB5NJFwRAlTSNgqDxO/Julius?node-id=89%3A442&viewport=317%2C-67%2C0.14545896649360657&scaling=scale-down);
 
 
 ### Vídeo de Introdução ao Projeto
