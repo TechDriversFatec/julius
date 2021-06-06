@@ -12,7 +12,7 @@
   <p align="center">'Se não comprar o desconto é maior!'</p>  
 
 
-### DEV TEAM
+<h1 align="left">DEV TEAM</h1>
 
 - Neylkson Diniz Pereira (Scrum Master) [LinkedIn](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/NeyDiniz)
 - Beatriz Medeiros de Oliveira Santos (DEV) - [LinkedIn](https://www.linkedin.com/in/beatriz-medeiros-a98396202/), [GitHub](https://github.com/beamedeiros)
@@ -26,13 +26,13 @@
 - Zaion Felippe Gomes Arruda (DEV) - [GitHub](https://github.com/ZaionKun)
 
  
-### Quem é o Julius?
+<h1 align="left">Quem é o Julius?</h1>
 
 Projeto Julius consiste em um assistente virtual que auxilia o usuário na tomada de decisões relacionadas a investimentos financeiros. Entre as funcionalidades estão código de ações, cotação do dia, conversor de moedas entre outros. O diferencial de nossa aplicação é trazer informações em tempo real entregando o máximo de interatividade ao cliente.
 O nosso aplicativo traz o que há de mais inovador no mercado financeiro nacional.
 
 
-### Pré-Requisitos do Cliente
+<h1 align="left">Pré-Requisitos do Cliente</h1>
 - Responder a comando de voz ou sons específicos (palma, estalar de dedos, etc.);
 - Possuir no mínimo 8 ações distintas e de natureza distintas;
 - Ser mobile, web ou desktop;
@@ -42,7 +42,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 - Não pode utilizar de plataforma de implementação de terceiros, seja gratuita ou não;
 
 
-### User story
+<h1 align="left">User story</h1>
   
   <table>
 <thead>
@@ -66,7 +66,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 <tr>
 <td align="center">Cliente</td>
 <td align="center">Notícias do dia</td>
-<td align="left">Através de um comando de voz você fica sabendo das últimas informações do mercado financeiro.</td>
+<td align="left">Através de um comando de voz você fica sabendo das últimas informaçõs do mercado financeiro.</td>
 </tr>
 <tr>
 <td align="center">Cliente</td>
@@ -100,17 +100,17 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
   
 ### [Backlog do Produto](https://github.com/TheLooksDatabase/Julius/projects/1) 
 
-### Backlog Total em cards
+<h1 align="left">Backlog Total em cards</h1>
 <p align="center">
   <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/1.png">
 
-### Road Map
+<h1 align="left">Road Map</h1>
 <p align="center">
   <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/roadmap_Julius.jpg">  
   
 
 
-### Funções do assistente
+<h1 align="left">Funções do assistente</h1>
 
 - Cotação do dia
 - Simulador de Juros Compostos
@@ -121,7 +121,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 - Comparativo entre financeiras
 - Código das ações
 
-### Funcionalidades bônus
+<h1 align="left">Funcionalidades bônus</h1>
 
   - Notificação em push
   - Educação financeira
@@ -129,13 +129,13 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
   - Acompanhamento de metas (por meio de uma API)
 
 
-### Benefícios do Produto
+<h1 align="left">Benefícios do Produto</h1>
 - Auxiliar as pessoas como investir no mercado financeiro
 - Educação financeira
 - Atualizações do mercado financeiro por notificaões em push
 
       
-## Tecnologias
+<h1 align="left">Tecnologias</h1>
 
 <p align="left">
   <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/finaldeverdade.png" />
@@ -169,7 +169,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
    - Google Meet/Discord/Whastapp - Para comunicação, reuniões, comunicado de último hora, entregas de resultados.
 
 
-### Layout
+<h1 align="left">Layout</h1>
 Acesse os links para visualizar o layout do projeto no Figma:
 
 [App](https://www.figma.com/proto/q7JuCB5NJFwRAlTSNgqDxO/Julius?node-id=89%3A442&viewport=317%2C-67%2C0.14545896649360657&scaling=scale-down)
