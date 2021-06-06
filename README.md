@@ -130,6 +130,7 @@ O nosso aplicativo traz o que há de mais inovador no mercado financeiro naciona
 
 
 <h1 align="left">Benefícios do Produto</h1>
+
 - Auxiliar as pessoas como investir no mercado financeiro
 - Educação financeira
 - Atualizações do mercado financeiro por notificaões em push
