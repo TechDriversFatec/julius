@@ -23,7 +23,7 @@
 - Luiz Felipe Gonçalves Braga (DEV) - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
 - Renan Felipe Basiotte da Silva (DEV) - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
 - Victor Araujo Paula Cavichioli (DEV) - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/), [GitHub](https://github.com/VictorCavichioli)
-- Zaion Felippe Gomes Arruda (DEV) - [GitHub](https://github.com/ZaionKun)
+- Zaion Felippe Gomes Arruda (DEV) - [LinkedIn](https://www.linkedin.com/in/zaion-gomes-b17657214/), [GitHub](https://github.com/ZaionKun)
 
  
 <h1 align="left">Quem é o Julius?</h1>
