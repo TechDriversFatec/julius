@@ -18,7 +18,7 @@
 - Beatriz Medeiros de Oliveira Santos (DEV) - [LinkedIn](https://www.linkedin.com/in/beatriz-medeiros-a98396202/), [GitHub](https://github.com/beamedeiros)
 - Guilherme Akinyele de Almeida (DEV) - [LinkedIn](https://www.linkedin.com/in/guilherme-akinyele/), [GitHub](https://github.com/gui-akinyele)
 - Joice Elen Pereira Teixeira (DEV) - [LinkedIn](https://www.linkedin.com/in/joice-elen-2a6309207/), [GitHub](https://github.com/jojoka1)
-- José Maria Reis dos Santos (DEV) - [GitHub](https://github.com/Jose0588) 
+- José Maria Reis dos Santos (DEV) - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-maria-reis-dos-santos-6ab656214/), [GitHub](https://github.com/Jose0588) 
 - Kauã Walbon Santos Borgarelli Tavares (DEV) - [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-walbon-santos-borgarelli-tavares-5bb67220a/), [GitHub](https://github.com/Borgarelli)
 - Luiz Felipe Gonçalves Braga (DEV) - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
 - Renan Felipe Basiotte da Silva (DEV) - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
